@@ -6,7 +6,7 @@ class WhyReactNativeIsSoGreat extends Component {
     return (
       <View>
         <Text>
-          If you like React on the web, you'll like React Native.
+          If you like React on the web
         </Text>
         <Text>
           You just use native components like 'View' and 'Text',
